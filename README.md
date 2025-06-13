@@ -2,10 +2,11 @@
 AI Chatbot Agent for Notion
 
 Key functions:
-1.Ability so summerise prolonged conversations to ensure efficient memory usage
-2.Websearch tool to ensure information is accurate and up to date
-3.Retrieve and query any information in the Notion Database
-4.Ability to edit/update Notion Database
+
+1. Ability so summerise prolonged conversations to ensure efficient memory usage
+2. Websearch tool to ensure information is accurate and up to date
+3. Retrieve and query any information in the Notion Database
+4. Ability to edit/update Notion Database
 
 
 Link to notion database page: https://www.notion.so/192dbce6201c80e490b9df38dd0af15c?v=192dbce6201c806eb49a000c89ab4dc5&pvs=4
